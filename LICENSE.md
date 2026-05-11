@@ -1,4 +1,4 @@
-#  
+#  bedwars advanced Script offers the most advanced bedwars Script, with auto-heal and esp. Perfect for dominating any match.
 
 
 
